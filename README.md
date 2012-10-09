@@ -30,7 +30,7 @@ Just `./run.sh`.
 
 # Including this in B2G
 
-Once you have the prerequisites and export the environment variables, 
+Once you have the prerequisites and export the environment variables,
 just clone this repo inside `$B2G_REPO/system/`. Build and flash B2G as usual.
 
 * to run it, you must shell in and run:
